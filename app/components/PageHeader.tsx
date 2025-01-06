@@ -33,7 +33,7 @@ const PageHeader = () => {
         <div className=" flex flex-grow max-w-[600px]">
           <input
             type="text"
-            placeholder="efe"
+            placeholder="Search"
             className="border-2 rounded-l-full py-1 px-4 text-lg w-full focus:border-blue-400 outline-none"
           />
           <button className="bg-gray-100 hover:bg-gray-200 pl-2 pr-4 rounded-r-full ">
