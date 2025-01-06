@@ -1,13 +1,4 @@
-import {
-  Airplay,
-  CircleUserRound,
-  Clock4,
-  ClockArrowUp,
-  Home,
-  ListVideo,
-  SquarePlay,
-  ThumbsUp,
-} from "lucide-react";
+import { Airplay, CircleUserRound, Home, SquarePlay } from "lucide-react";
 import React, { useState } from "react";
 
 const icons = [
